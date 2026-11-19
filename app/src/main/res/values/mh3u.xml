@@ -1,0 +1,15 @@
+<resources>
+    <item type="id" name="nav_palicos"/>
+    <string name="preference_theme">Theme</string>
+    <string-array name="theme_names">
+        <item>System default</item>
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+    <string-array name="theme_values" translatable="false">
+        <item>system</item>
+        <item>light</item>
+        <item>dark</item>
+    </string-array>
+    <string name="unknown_gathering_value">—</string>
+</resources>
